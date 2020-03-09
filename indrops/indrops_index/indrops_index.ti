@@ -1,0 +1,37 @@
+6 0
+BKVT1|LTAg
+LTAg
+NC_001538
+- 2088
+2 2722 4566 4911 5153
+gene_id "LTAg"; gene_name "LTAg"; transcript_id "BKVT1|LTAg"; exon_id "BKVE2"; gene_biotype "protein_coding";
+BKVT6|VP1
+VP1
+NC_001538
++ 1089
+1 1564 2652
+gene_id "VP1"; gene_name "VP1"; transcript_id "BKVT6|VP1"; exon_id "BKVE7"; gene_biotype "protein_coding";
+BKVT4|VP2
+VP2
+NC_001538
++ 1056
+1 624 1679
+gene_id "VP2"; gene_name "VP2"; transcript_id "BKVT4|VP2"; exon_id "BKVE5"; gene_biotype "protein_coding";
+BKVT5|VP3
+VP3
+NC_001538
++ 699
+1 981 1679
+gene_id "VP3"; gene_name "VP3"; transcript_id "BKVT5|VP3"; exon_id "BKVE6"; gene_biotype "protein_coding";
+BKVT3|agno
+agno
+NC_001538
++ 201
+1 388 588
+gene_id "agno"; gene_name "agno"; transcript_id "BKVT3|agno"; exon_id "BKVE4"; gene_biotype "protein_coding";
+BKVT2|sTAg
+sTAg
+NC_001538
+- 519
+1 4635 5153
+gene_id "sTAg"; gene_name "sTAg"; transcript_id "BKVT2|sTAg"; exon_id "BKVE3"; gene_biotype "protein_coding";

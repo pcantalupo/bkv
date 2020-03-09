@@ -1,0 +1,13 @@
+NC_001538	RefSeq	transcript	2722	5153	.	-	.	gene_id "LTAg"; gene_name "LTAg"; transcript_id "BKVT1|LTAg"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	4911	5153	.	-	.	gene_id "LTAg"; gene_name "LTAg"; transcript_id "BKVT1|LTAg"; exon_id "BKVE1"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	2722	4566	.	-	.	gene_id "LTAg"; gene_name "LTAg"; transcript_id "BKVT1|LTAg"; exon_id "BKVE2"; gene_biotype "protein_coding";
+NC_001538	RefSeq	transcript	4635	5153	.	-	.	gene_id "sTAg"; gene_name "sTAg"; transcript_id "BKVT2|sTAg"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	4635	5153	.	-	.	gene_id "sTAg"; gene_name "sTAg"; transcript_id "BKVT2|sTAg"; exon_id "BKVE3"; gene_biotype "protein_coding";
+NC_001538	RefSeq	transcript	388	588	.	+	.	gene_id "agno"; gene_name "agno"; transcript_id "BKVT3|agno"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	388	588	.	+	.	gene_id "agno"; gene_name "agno"; transcript_id "BKVT3|agno"; exon_id "BKVE4"; gene_biotype "protein_coding";
+NC_001538	RefSeq	transcript	624	1679	.	+	.	gene_id "VP2"; gene_name "VP2"; transcript_id "BKVT4|VP2"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	624	1679	.	+	.	gene_id "VP2"; gene_name "VP2"; transcript_id "BKVT4|VP2"; exon_id "BKVE5"; gene_biotype "protein_coding";
+NC_001538	RefSeq	transcript	981	1679	.	+	.	gene_id "VP3"; gene_name "VP3"; transcript_id "BKVT5|VP3"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	981	1679	.	+	.	gene_id "VP3"; gene_name "VP3"; transcript_id "BKVT5|VP3"; exon_id "BKVE6"; gene_biotype "protein_coding";
+NC_001538	RefSeq	transcript	1564	2652	.	+	.	gene_id "VP1"; gene_name "VP1"; transcript_id "BKVT6|VP1"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	1564	2652	.	+	.	gene_id "VP1"; gene_name "VP1"; transcript_id "BKVT6|VP1"; exon_id "BKVE7"; gene_biotype "protein_coding";

@@ -1,0 +1,22 @@
+NC_001538	RefSeq	gene	2722	5153	.	-	.	gene_id "LTAg"; gene_name "LTAg";
+NC_001538	RefSeq	transcript	2722	5153	.	-	.	gene_id "LTAg"; gene_name "LTAg"; transcript_id "BKVT1";
+NC_001538	RefSeq	exon	4911	5153	.	-	.	gene_id "LTAg"; gene_name "LTAg"; transcript_id "BKVT1"; exon_id "BKVE1";
+NC_001538	RefSeq	exon	2722	4566	.	-	.	gene_id "LTAg"; gene_name "LTAg"; transcript_id "BKVT1"; exon_id "BKVE2";
+
+NC_001538	RefSeq	gene	2722	5153	.	-	.	gene_id "sTAg"; gene_name "sTAg";
+NC_001538	RefSeq	transcript	2722	5153	.	-	.	gene_id "sTAg"; gene_name "sTAg"; transcript_id "BKVT2";
+NC_001538	RefSeq	exon	4635	5153	.	-	.	gene_id "sTAg"; gene_name "sTAg"; transcript_id "BKVT2"; exon_id "BKVE3";
+NC_001538	RefSeq	exon	2722	4566	.	-	.	gene_id "sTAg"; gene_name "sTAg"; transcript_id "BKVT2"; exon_id "BKVE8";
+
+NC_001538	RefSeq	gene	388	588	.	+	.	gene_id "agno"; gene_name "agno";
+NC_001538	RefSeq	transcript	388	588	.	+	.	gene_id "agno"; gene_name "agno"; transcript_id "BKVT3";
+NC_001538	RefSeq	exon	388	588	.	+	.	gene_id "agno"; gene_name "agno"; transcript_id "BKVT3"; exon_id "BKVE4";
+NC_001538	RefSeq	gene	624	1679	.	+	.	gene_id "VP2"; gene_name "VP2";
+NC_001538	RefSeq	transcript	624	1679	.	+	.	gene_id "VP2"; gene_name "VP2"; transcript_id "BKVT4";
+NC_001538	RefSeq	exon	624	1679	.	+	.	gene_id "VP2"; gene_name "VP2"; transcript_id "BKVT4"; exon_id "BKVE5";
+NC_001538	RefSeq	gene	981	1679	.	+	.	gene_id "VP3"; gene_name "VP3";
+NC_001538	RefSeq	transcript	981	1679	.	+	.	gene_id "VP3"; gene_name "VP3"; transcript_id "BKVT5";
+NC_001538	RefSeq	exon	981	1679	.	+	.	gene_id "VP3"; gene_name "VP3"; transcript_id "BKVT5"; exon_id "BKVE6";
+NC_001538	RefSeq	gene	1564	2652	.	+	.	gene_id "VP1"; gene_name "VP1";
+NC_001538	RefSeq	transcript	1564	2652	.	+	.	gene_id "VP1"; gene_name "VP1"; transcript_id "BKVT6";
+NC_001538	RefSeq	exon	1564	2652	.	+	.	gene_id "VP1"; gene_name "VP1"; transcript_id "BKVT6"; exon_id "BKVE7";
