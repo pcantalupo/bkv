@@ -1,3 +1,15 @@
+Genome assembly ViralProj14074: https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000837865.1/
+RefSeq FTP site: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/837/865/GCF_000837865.1_ViralProj14074/
+RefSeq GTF file direct link: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/837/865/GCF_000837865.1_ViralProj14074/GCF_000837865.1_ViralProj14074_genomic.gtf.gz
+
+Since the RefSeq GTF file (GCF_000837865.1_ViralProj14074_genomic.gtf)
+doesn't contain transcript and exon features, I replaced the CDS,
+start_codon and stop_codon features with transcript and exon features.  I
+changed the cryptic gene_ids like BKVPyVgp1 to common gene names like LTAg,
+VP1, etc...  I removed several unnecessary attribute fields (i.e.  gbkey,
+etc...).  The output file from all this is: NC_001538.gtf
+
+
 The 'new' gtf file is my ongoing attempt to add the second exon of the Small T transcript.
 
 NC_001538.noOverlapRegions.noVP3.gtf - derivate of NC_001538.gtf where I
