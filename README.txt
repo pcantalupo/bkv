@@ -2,6 +2,9 @@ Genome assembly ViralProj14074: https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF
 RefSeq FTP site: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/837/865/GCF_000837865.1_ViralProj14074/
 RefSeq GTF file direct link: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/837/865/GCF_000837865.1_ViralProj14074/GCF_000837865.1_ViralProj14074_genomic.gtf.gz
 
+# create a RefSeq GTF without the VERSION number
+sed 's/NC_001538.1/NC_001538/g' GCF_000837865.1_ViralProj14074_genomic.gtf > GCF_000837865_ViralProj14074_genomic.gtf
+
 Since the RefSeq GTF file (GCF_000837865.1_ViralProj14074_genomic.gtf)
 doesn't contain transcript and exon features, I replaced the CDS,
 start_codon and stop_codon features with transcript and exon features.  I
