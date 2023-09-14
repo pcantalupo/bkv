@@ -1,0 +1,6 @@
+NC_001538	RefSeq	gene	2701	5153	.	-	.	gene_id "Early"; gene_name "Early"; gene_biotype "protein_coding";
+NC_001538	RefSeq	transcript	2701	5153	.	-	.	gene_id "Early"; gene_name "Early"; transcript_id "Early"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	2701	5153	.	-	.	gene_id "Early"; gene_name "Early"; transcript_id "Early"; exon_id "Early"; gene_biotype "protein_coding";
+NC_001538	RefSeq	gene	1	2700	.	+	.	gene_id "Late"; gene_name "Late"; gene_biotype "protein_coding";
+NC_001538	RefSeq	transcript	1	2700	.	+	.	gene_id "Late"; gene_name "Late"; transcript_id "Late"; gene_biotype "protein_coding";
+NC_001538	RefSeq	exon	1	2700	.	+	.	gene_id "Late"; gene_name "Late"; transcript_id "Late"; exon_id "Late"; gene_biotype "protein_coding";
